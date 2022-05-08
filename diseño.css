@@ -1,0 +1,149 @@
+body{
+    background-color:antiquewhite;
+    height: 1024px;
+    width: 1440px;
+    left: -720px;
+    top: 622px;
+    border-radius: 0px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.marco{
+    margin: 2px;
+    margin-top: 0%;
+    margin-left: 0%;
+    }
+
+.entrada{
+    position: absolute;
+    width: 577px;
+    height: 48px;
+    left: 240px;
+    top: 168px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+    color: #0A3871;
+}
+
+.salida{
+    margin: 5%;
+    border: transparent;
+    height: 944px;
+    width: 400px;
+    left: 1150px;
+    top: 0%;
+    border-radius: 32px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+    position: absolute;
+    float: right;
+    text-align: center;
+    font-size: 20px;
+    text-justify: auto;
+    
+}
+
+
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 120px;
+    height: 60px;
+    left: 40px;
+    top: 40px;
+    border-radius: 20%;
+
+}
+
+.primary{
+    Color: rgb(230, 230, 240);
+    translate:Normal;
+    height: 67px;
+    width: 328px;
+    left: 170px;
+    top: 900px;
+    border-radius: 24px;
+    padding: 24px;
+    background: rgb(2, 46, 99);
+    cursor: pointer; cursor: hand;
+    position: relative;
+    float: right;
+    box-shadow: 0px 24px 32px -8px rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+ }
+ .boton-uno{
+    text-align: center;
+    translate:Normal;
+    font-size: 20px;
+    Color:rgb(255, 255, 255);
+    height: 67px;
+    width: 328px;
+    left: 200px;
+    top: 900px;
+    border-radius: 24px;
+    padding: 24px;
+    background: rgba(10, 56, 113, 1);
+    cursor: pointer; cursor: hand;
+    position: relative;
+    float: left;
+    border-color: black;
+    border: 2px;
+    box-shadow: 0px 24px 32px -8px rgb(0, 0, 0);
+    margin: auto;
+ }
+ .boton-dos{
+    font-size: 20px;
+    text-align: center;
+    Color:"Dark blue";
+    rotate :"Normal";
+    height: 67px;
+    width: 328px;
+    left: 500px;
+    top: 900px;
+    border-radius: 24px;
+    padding: 24px;
+    background: rgb(255, 255, 255);
+    cursor: pointer; cursor: hand;
+    bottom: auto;
+    position: relative;
+    float:left;
+    border-color: black;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.979);
+    margin: auto;
+    translate:Normal;
+
+ }
+
+ /*.boton-tres{
+    text-align: center;
+    translate:Normal;
+    font-size: 20px;
+    Color:rgb(255, 255, 255);
+    height: 67px;
+    width: 328px;
+    left: 200px;
+    top: 900px;
+    border-radius: 24px;
+    padding: 24px;
+    background: rgba(10, 56, 113, 1);
+    cursor: pointer; cursor: hand;
+    position: relative;
+    float: left;
+    border-color: black;
+    border: 2px;
+    box-shadow: 0px 24px 32px -8px rgb(0, 0, 0);
+    margin: auto;
+ }*/
+
+ 
